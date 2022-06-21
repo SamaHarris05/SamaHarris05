@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SamaHarris05
-- 👀 I’m interested in graphic design and web development
+- 👋 Hi, I’m @SamaHarris05 :)
+- 👀 I’m interested in graphic, UX design and front-end web development
 - 🌱 I’m currently learning JavaScript
 <!-- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me 
